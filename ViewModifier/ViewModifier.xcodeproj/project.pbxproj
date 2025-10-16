@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D189011F2EA1670A008DC186 /* PrimaryStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = D189011E2EA1670A008DC186 /* PrimaryStyle.swift */; };
 		D18B74012EA1658200CAF03E /* ViewModifierApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D18B74002EA1658200CAF03E /* ViewModifierApp.swift */; };
 		D18B74032EA1658200CAF03E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D18B74022EA1658200CAF03E /* ContentView.swift */; };
 		D18B74052EA1658B00CAF03E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D18B74042EA1658B00CAF03E /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D189011E2EA1670A008DC186 /* PrimaryStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrimaryStyle.swift; sourceTree = "<group>"; };
 		D18B73FD2EA1658200CAF03E /* ViewModifier.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ViewModifier.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D18B74002EA1658200CAF03E /* ViewModifierApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifierApp.swift; sourceTree = "<group>"; };
 		D18B74022EA1658200CAF03E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				D18B74002EA1658200CAF03E /* ViewModifierApp.swift */,
 				D18B74022EA1658200CAF03E /* ContentView.swift */,
+				D189011E2EA1670A008DC186 /* PrimaryStyle.swift */,
 				D18B74042EA1658B00CAF03E /* Assets.xcassets */,
 				D18B74062EA1658B00CAF03E /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D189011F2EA1670A008DC186 /* PrimaryStyle.swift in Sources */,
 				D18B74032EA1658200CAF03E /* ContentView.swift in Sources */,
 				D18B74012EA1658200CAF03E /* ViewModifierApp.swift in Sources */,
 			);
